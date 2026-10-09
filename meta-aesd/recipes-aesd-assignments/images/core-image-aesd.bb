@@ -14,5 +14,5 @@ EXTRA_IMAGE_FEATURES:append = " allow-root-login"
 # Build an ext4 image for ease of use with runqemu
 IMAGE_FSTYPES:append = " ext4"
 
-#TODO: remove comment here to add to your image
-#CORE_IMAGE_EXTRA_INSTALL += "aesd-assignments"
+#Removed comment here to add to my image
+CORE_IMAGE_EXTRA_INSTALL += "aesd-assignments"

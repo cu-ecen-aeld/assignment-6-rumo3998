@@ -1,4 +1,5 @@
 bitbake-builds/
+bitbake*
 .vscode
 valgrind-out.txt
 test.sh.log
